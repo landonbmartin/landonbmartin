@@ -1,4 +1,4 @@
-<h1>Hi, I'm Landon, an <a href="www.linkedin.com/in/martinlandon">IT Professional</a></h1>
+<h1>Hi, I'm Landon, an <a href="https://www.linkedin.com/in/martinlandon">IT Professional</a></h1>
 
 <h2>Information Technology Projects:</h2>
 
