@@ -1,29 +1,29 @@
 <h1 algin="left">Hi, I'm Landon, an <a href="https://www.linkedin.com/in/martinlandon">IT Professional</a></i></h1>
-  <li>6+ years of experience in client services</li>
+  <li>5+ years of experience in Digital Marketing & Client Services</li>
   <li>A passion to collaborate with others as a team</li>
   <li>A positive mindset and drive to learn new things</li>
+</ul>
 <br>
 
 <!--- Education --->
 
 <h2 align = "left">Education</h2>
-
-  <li><b>Olivet Nazarene University, 2015 - 2019</b></li>
-Bachlor Science in Marketing Management</li>
-
-  <li><b>Course Careers, 2023</b></li>
-Information Technology Professional Course</li>
-
-  <li><b>Google IT Support, 2023</b></li>
-Information Technology Professional Course</li>
+  <li><b>Olivet Nazarene University, 2015 - 2019</b> - Bachlor of Science in Marketing Management</li>
+  <li><b>Course Careers, 2023</b> - Information Technology Professional Course</li>
+  <li><b>Google IT Support, 2023</b> - Information Technology Professional Course</li>
+</ul>
+<br>
 
 <!--- Certifications --->
 
 <h2 align = "left">Certifications</h2>
 
-  <li>CourseCareers IT Professional (In progress, expected Nov 1st, 2023</li>
-  <li>Google IT Support (In progress, expected Nov 14, 2023</li>
-  <li>ComptTIA A+ (In progress, expected Jan 1, 2024</li>
+  <li>Google Analytics Individual Qualification, July 2023</li>
+  <li>CourseCareers IT Professional (In progress, expected Nov 1st, 2023)</li>
+  <li>Google IT Support (In progress, expected Nov 14, 2023)</li>
+  <li>ComptTIA A+ (In progress, expected Jan 1, 2024)</li>
+</ul>
+<br>
 
   <!--- IT Projects --->
 
@@ -36,6 +36,8 @@ Information Technology Professional Course</li>
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/landonbmartin/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/landonbmartin/azure-network-protocols)
+</ul>
+<br>
 
 <h2>Connect with me:</h2>
 
