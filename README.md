@@ -1,5 +1,5 @@
 <h1 algin="left">Hi, I'm Landon, an <a href="https://www.linkedin.com/in/martinlandon">IT Professional</a></i></h1>
-  <li>5+ years of experience in Digital Marketing & Client Services</li>
+  <li>5+ years of experience in Client Services & Digital Marketing</li>
   <li>A passion to collaborate with others as a team</li>
   <li>A positive mindset and drive to learn new things</li>
 </ul>
