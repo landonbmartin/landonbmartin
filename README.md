@@ -39,7 +39,7 @@
   - [Understanding & Building Intuition for DNS](https://github.com/landonbmartin/DNS)
   - [Network Fileshare and Permissions in Active Directory](https://github.com/landonbmartin/network-fileshare)
 - <b>Virtual Private Networks (VPN)</b>
-  - Understanding & Configuring for a VPN (Coming Soon)
+  - Understanding & Configuring a VPN (Coming Soon)
 </ul>
 <br>
 
