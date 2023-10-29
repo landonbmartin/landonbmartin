@@ -36,7 +36,7 @@
 - <b>Microsoft Azure</b>
   - [Virtual Machine Network in Microsoft Azure](https://github.com/landonbmartin/vm-network)
   - [Configuring Active Directory within Azure VMs](https://github.com/landonbmartin/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/landonbmartin/azure-network-protocols)
+  - [Understanding & Building Intuition for DNS](https://github.com/landonbmartin/DNS)
 </ul>
 <br>
 
