@@ -38,6 +38,8 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/landonbmartin/configure-ad)
   - [Understanding & Building Intuition for DNS](https://github.com/landonbmartin/DNS)
   - [Network Fileshare and Permissions in Active Directory](https://github.com/landonbmartin/network-fileshare)
+- <b>Virtual Private Network</b>
+  - Understanding & Configuration for a VPN (COMING SOON)
 </ul>
 <br>
 
