@@ -25,7 +25,7 @@
 </ul>
 <br>
 
-  <!--- IT Projects --->
+<!--- IT Projects --->
 
 <h2 align = "left">IT Projects</h2>
 
