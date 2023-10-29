@@ -21,7 +21,7 @@
   <li>Google Analytics Individual Qualification, July 2023</li>
   <li>CourseCareers IT Professional (In progress, expected Nov 1st, 2023)</li>
   <li>Google IT Support (In progress, expected Nov 14, 2023)</li>
-  <li>ComptTIA A+ (In progress, expected Jan 1, 2024)</li>
+  <li>CompTIA A+ (In progress, expected Jan 1, 2024)</li>
 </ul>
 <br>
 
